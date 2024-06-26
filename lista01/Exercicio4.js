@@ -1,11 +1,5 @@
 const leia = require('readline-sync');
 
-let nUm;
-let nDois;
-let nTres;
-let nQuatro;
-let result;
-
 nUm = leia.questionFloat("\nDigite um valor para N1: ");
 nDois = leia.questionFloat("\nDigite um valor para N2: ");
 nTres = leia.questionFloat("\nDigite um valor para N3: ");
